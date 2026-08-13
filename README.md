@@ -1,4 +1,3 @@
-# apasda
 <div align="center">
 
 # ⚡ APADA
