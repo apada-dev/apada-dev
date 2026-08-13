@@ -1,76 +1,101 @@
 <div align="center">
 
-# APADA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:000000&height=220&section=header&text=APADA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VIGO%20×%20SAEED&descAlignY=60&descSize=20&descColor=9CA3AF"/>
 
-### `BUILDING WHAT COMES NEXT.`
+<br>
 
-**Independent Software Engineering Team**
+# `APADA`
+
+### SOFTWARE ENGINEERING • AI • WEB • SYSTEMS
 
 **Vigo × Saeed**
 
 <br>
 
-### آینده به کسانی تعلق دارد که آن را می‌سازند.
-
-### *The future belongs to those who build it.*
+> ## « آینده به کسانی تعلق دارد که آن را می‌سازند. »
+>
+> **“The future belongs to those who build it.”**
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-18181B?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FASTAPI-18181B?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/DJANGO-18181B?style=flat-square&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/REACT-18181B?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/DOCKER-18181B?style=flat-square&logo=docker&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/INDEPENDENT_TEAM-111827?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-111827?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/AI_&_WEB-111827?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
 ---
 
-## 01 — APADA
+# `01` — ABOUT APADA
 
-**APADA is a two-person independent development team focused on building software, backend systems, AI solutions and modern web applications.**
+<div align="center">
 
-**آپادا یک تیم توسعه مستقل دو نفره است که بر ساخت نرم‌افزار، سیستم‌های Backend، راهکارهای هوش مصنوعی و اپلیکیشن‌های مدرن وب تمرکز دارد.**
+### ما ایده‌ها را به نرم‌افزار تبدیل می‌کنیم.
+
+### *We turn ideas into software.*
+
+</div>
+
+**APADA** یک تیم مستقل دو نفره متشکل از **Vigo** و **Saeed** است که در زمینه توسعه نرم‌افزار، Backend Engineering، هوش مصنوعی، Web Development و طراحی سیستم فعالیت می‌کند.
+
+**APADA is an independent two-person development team formed by Vigo and Saeed, working across software engineering, backend systems, artificial intelligence, web development and software design.**
 
 <br>
 
-> **We don't just write code. We engineer ideas.**
-> **ما فقط کد نمی‌نویسیم؛ ایده‌ها را مهندسی می‌کنیم.**
+<div align="center">
+
+`THINK`　→　`DESIGN`　→　`BUILD`　→　`TEST`　→　`EVOLVE`
+
+**فکر کن → طراحی کن → بساز → آزمایش کن → تکامل بده**
+
+</div>
 
 ---
 
-## 02 — THE TEAM
+# `02` — THE TEAM
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### VIGO
+<div align="center">
 
-**Backend · AI · Web · Infrastructure**
+## VIGO
 
-Vigo focuses on Python development, AI agents, backend engineering, web technologies and infrastructure.
+### `BACKEND × AI × INFRASTRUCTURE`
 
-**ویگو در توسعه Python، ساخت Agentهای هوش مصنوعی، مهندسی Backend، فناوری‌های وب و زیرساخت فعالیت می‌کند.**
+</div>
+
+**ویگو روی Backend، هوش مصنوعی، Web Development، زیرساخت و شبکه تمرکز دارد.**
+
+**Vigo focuses on backend engineering, AI agents, web development, infrastructure and networking.**
 
 <br>
 
-**Core**
+### ⚡ Core
 
 `Python` `Django` `FastAPI` `Node.js`
 
-**Web**
+### 🌐 Web
 
-`HTML` `CSS` `JavaScript` `Vue.js` `Bootstrap` `jQuery`
+`HTML` `CSS` `JavaScript`
+`Vue.js` `Bootstrap` `jQuery`
 
-**Infrastructure**
+### 🤖 AI
 
-`Docker` `SQL`
+`AI Agents`
+`Python AI Development`
 
-**Networking**
+### 🗄️ Data
+
+`SQL`
+
+### 🐳 Infrastructure
+
+`Docker`
+
+### 🌐 Networking & Security
 
 `Network+` `CCNA` `CCNP` `CEH`
 
@@ -78,25 +103,37 @@ Vigo focuses on Python development, AI agents, backend engineering, web technolo
 
 <td width="50%" valign="top">
 
-### SAEED
+<div align="center">
 
-**Backend · Software Design · Development**
+## SAEED
 
-Saeed focuses on backend development, API engineering, software design and application development.
+### `BACKEND × DESIGN × DEVELOPMENT`
 
-**سعید در توسعه Backend، مهندسی API، طراحی نرم‌افزار و توسعه اپلیکیشن فعالیت می‌کند.**
+</div>
+
+**سعید روی Backend، طراحی نرم‌افزار، معماری API و توسعه اپلیکیشن تمرکز دارد.**
+
+**Saeed focuses on backend development, software design, API architecture and application development.**
 
 <br>
 
-**Core**
+### ⚡ Core
 
-`Python` `FastAPI` `SQLAlchemy` `SQL`
+`Python` `FastAPI` `SQLAlchemy`
 
-**Development**
+### 🗄️ Data
 
-`React` `JSON` `Ursina`
+`SQL` `SQLAlchemy`
 
-**Focus**
+### ⚛️ Development
+
+`React` `JSON`
+
+### 🎮 Application
+
+`Ursina`
+
+### 🧠 Software
 
 `Software Design`
 `Backend Architecture`
@@ -109,110 +146,109 @@ Saeed focuses on backend development, API engineering, software design and appli
 
 ---
 
-## 03 — TECHNOLOGY
+# `03` — TECHNOLOGY
 
 <div align="center">
 
-### BACKEND
+## BACKEND
 
-`Python` · `FastAPI` · `Django` · `Node.js` · `SQLAlchemy`
-
-**توسعه Backend و ساخت سیستم‌ها و APIهای قدرتمند**
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs"/>
 
 <br>
 
-### FRONTEND
+`Python` · `Django` · `FastAPI` · `Node.js` · `SQLAlchemy`
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Vue.js` · `Bootstrap` · `jQuery`
+**ساخت Backend و APIهای قدرتمند و قابل توسعه**
+*Building scalable and maintainable backend systems.*
 
-**توسعه رابط‌های مدرن و تجربه‌های وب**
+<br><br>
 
-<br>
+## FRONTEND
 
-### AI
-
-`Python AI Agents`
-
-**ساخت Agentها و راهکارهای هوش مصنوعی با Python**
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap"/>
 
 <br>
 
-### DATABASE
+`HTML` · `CSS` · `JavaScript` · `Vue.js` · `React` · `Bootstrap` · `jQuery`
 
-`SQL`
+**ساخت رابط‌های مدرن و تجربه‌های وب**
+*Building modern web interfaces and experiences.*
 
-**طراحی و مدیریت داده**
+<br><br>
 
-<br>
+## AI • DATABASE • INFRASTRUCTURE
 
-### INFRASTRUCTURE
-
-`Docker`
-
-**ساخت و مدیریت محیط‌های قابل توسعه و قابل استقرار**
+<img src="https://skillicons.dev/icons?i=python,docker,mysql,postgres"/>
 
 <br>
 
-### NETWORKING
+`AI Agents` · `SQL` · `Docker`
 
-`Network+` · `CCNA` · `CCNP` · `CEH`
-
-**شبکه، زیرساخت و امنیت**
-
-<br>
-
-### SOFTWARE
-
-`Software Design` · `API Architecture` · `JSON` · `Ursina`
-
-**طراحی نرم‌افزار و معماری سیستم**
+**هوش مصنوعی، داده و زیرساخت نرم‌افزار**
+*AI, data and software infrastructure.*
 
 </div>
 
 ---
 
-## 04 — WHAT WE BUILD
+# `04` — WHAT WE BUILD
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
+
+## 🤖
 
 ### AI
 
-AI Agents
+**AI Agents**
 
-**هوش مصنوعی و Agentها**
+ساخت Agentهای هوش مصنوعی
+
+*Building intelligent AI agents*
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
+
+## ⚙️
 
 ### BACKEND
 
-APIs & Systems
+**APIs & Systems**
 
-**سیستم‌ها و APIهای Backend**
+ساخت سیستم‌ها و APIها
+
+*Backend systems & APIs*
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
+
+## ◈
 
 ### WEB
 
-Modern Web Apps
+**Web Applications**
 
-**اپلیکیشن‌های مدرن وب**
+ساخت اپلیکیشن‌های وب
+
+*Modern web applications*
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### SYSTEMS
+## ◇
 
-Software Architecture
+### DESIGN
 
-**معماری و طراحی نرم‌افزار**
+**Software Architecture**
+
+طراحی و معماری نرم‌افزار
+
+*Software architecture & design*
 
 </td>
 
@@ -221,98 +257,142 @@ Software Architecture
 
 ---
 
-## 05 — ENGINEERING MINDSET
+# `05` — OUR ENGINEERING
 
 <div align="center">
 
-### `THINK → DESIGN → BUILD → TEST → EVOLVE`
+### `01` THINK
 
-**Think clearly. Design deliberately. Build relentlessly.**
+**مسئله را قبل از راه‌حل بفهم.**
+*Understand the problem before the solution.*
 
-**شفاف فکر کن. آگاهانه طراحی کن. با جدیت بساز.**
+↓
+
+### `02` DESIGN
+
+**سیستم را قبل از ساختن طراحی کن.**
+*Design the system before building it.*
+
+↓
+
+### `03` BUILD
+
+**ایده را به چیزی واقعی تبدیل کن.**
+*Turn the idea into something real.*
+
+↓
+
+### `04` EVOLVE
+
+**هر نسخه باید بهتر از نسخه قبل باشد.**
+*Every version should be better than the last.*
 
 </div>
 
 ---
 
-## 06 — APADA PHILOSOPHY
-
-**Technology is a tool. Engineering is the difference.**
-
-**فناوری یک ابزار است؛ مهندسی چیزی است که تفاوت را ایجاد می‌کند.**
-
-We believe good software should be:
-
-`Simple` · `Reliable` · `Scalable` · `Maintainable`
-
-**نرم‌افزار خوب باید ساده، قابل اعتماد، مقیاس‌پذیر و قابل نگهداری باشد.**
-
----
-
-# 07 — OUR MOTTO
+# `06` — APADA PHILOSOPHY
 
 <div align="center">
 
-### آینده به کسانی تعلق دارد که آن را می‌سازند.
+### `SIMPLE • POWERFUL • RELIABLE`
+
+**سادگی، قدرت و قابلیت اطمینان**
+
+<br>
+
+> **Technology is the tool. Engineering is the craft.**
+>
+> **فناوری ابزار است؛ مهندسی هنر ساختن است.**
+
+</div>
+
+---
+
+# `07` — THE MOTTO
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=100&text=THE%20FUTURE%20BELONGS%20TO%20THOSE%20WHO%20BUILD%20IT.&fontSize=22&fontColor=ffffff&fontAlignY=50"/>
+
+<br><br>
+
+## آینده به کسانی تعلق دارد که آن را می‌سازند.
 
 ### *The future belongs to those who build it.*
 
 <br>
 
-**L’avenir appartient à ceux qui le construisent.**
-
-**Die Zukunft gehört denen, die sie gestalten.**
-
-**El futuro pertenece a quienes lo construyen.**
-
-**Il futuro appartiene a chi lo costruisce.**
-
-**O futuro pertence àqueles que o constroem.**
-
-**Будущее принадлежит тем, кто его создаёт.**
-
-**Gelecek, onu inşa edenlere aittir.**
-
-**Gələcək onu quranlara məxsusdur.**
-
-**المستقبل ملكٌ لمن يصنعه.**
-
-**未来は、それを創る者たちのものだ。**
-
-**미래는 그것을 만드는 사람들의 것이다.**
-
-**未来属于创造它的人。**
-
-**Το μέλλον ανήκει σε αυτούς που το δημιουργούν.**
-
-**Framtiden tillhör dem som skapar den.**
-
-**Przyszłość należy do tych, którzy ją tworzą.**
-
-**Майбутнє належить тим, хто його створює.**
+|     Language    | Motto                                           |
+| :-------------: | :---------------------------------------------- |
+|    🇮🇷 فارسی   | آینده به کسانی تعلق دارد که آن را می‌سازند.     |
+|   🇬🇧 English  | The future belongs to those who build it.       |
+|  🇫🇷 Français  | L’avenir appartient à ceux qui le construisent. |
+|   🇩🇪 Deutsch  | Die Zukunft gehört denen, die sie gestalten.    |
+|   🇪🇸 Español  | El futuro pertenece a quienes lo construyen.    |
+|  🇮🇹 Italiano  | Il futuro appartiene a chi lo costruisce.       |
+|  🇵🇹 Português | O futuro pertence àqueles que o constroem.      |
+|   🇷🇺 Русский  | Будущее принадлежит тем, кто его создаёт.       |
+|   🇹🇷 Türkçe   | Gelecek, onu inşa edenlere aittir.              |
+| 🇦🇿 Azərbaycan | Gələcək onu quranlara məxsusdur.                |
+|   🇸🇦 العربية  | المستقبل ملكٌ لمن يصنعه.                        |
+|     🇯🇵 日本語    | 未来は、それを創る者たちのものだ。                               |
+|     🇰🇷 한국어    | 미래는 그것을 만드는 사람들의 것이다.                           |
+|     🇨🇳 中文     | 未来属于创造它的人。                                      |
+|  🇬🇷 Ελληνικά  | Το μέλλον ανήκει σε αυτούς που το δημιουργούν.  |
+|   🇸🇪 Svenska  | Framtiden tillhör dem som skapar den.           |
+|   🇵🇱 Polski   | Przyszłość należy do tych, którzy ją tworzą.    |
+| 🇺🇦 Українська | Майбутнє належить тим, хто його створює.        |
 
 </div>
 
 ---
 
+# `08` — APADA STACK
+
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,html,css,js,vue,react,bootstrap,docker,mysql,postgres,git,github"/>
+
+<br><br>
+
+`PYTHON` · `FASTAPI` · `DJANGO` · `NODE.JS`
+`REACT` · `VUE` · `JAVASCRIPT` · `HTML` · `CSS`
+`SQL` · `SQLALCHEMY` · `DOCKER` · `GIT`
+
+</div>
+
+---
+
+# `09` — GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=apada-dev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apada-dev&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f2937,100:111827&height=120&section=footer"/>
 
 # APADA
 
 ### `VIGO × SAEED`
 
-**Independent Software Engineering**
-
-**مهندسی مستقل نرم‌افزار**
-
-<br>
-
-### `BUILDING WHAT COMES NEXT.`
+**ساختن آینده، به جای منتظر ماندن برای آن.**
+*Building the future instead of waiting for it.*
 
 <br>
 
-**© APADA**
+### **THE FUTURE BELONGS TO THOSE WHO BUILD IT.**
 
 </div>
