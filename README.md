@@ -4,19 +4,23 @@
 
 <br>
 
-# ⚡ APADA
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║                 A P A D A                            ║
+║                                                      ║
+║        V I G O   ×   S A E E D                       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 ### `ENGINEERING THE FUTURE`
 
 **Independent Software Engineering Team**
 
-`VIGO`　×　`SAEED`
-
 <br>
 
-<a href="https://github.com/apada-dev">
 <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
 <img src="https://img.shields.io/badge/AI-312E81?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/BACKEND-1E40AF?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/WEB-0891B2?style=for-the-badge&logoColor=FFFFFF"/>
@@ -65,7 +69,21 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 <div align="center">
 
-`IDEA`　→　`DESIGN`　→　`ENGINEER`　→　`BUILD`　→　`EVOLVE`
+```text
+       IDEA
+        │
+        ▼
+     DESIGN
+        │
+        ▼
+    ENGINEER
+        │
+        ▼
+      BUILD
+        │
+        ▼
+     EVOLVE
+```
 
 **ایده → طراحی → مهندسی → ساخت → تکامل**
 
@@ -210,7 +228,9 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 <td align="center" width="25%">
 
-# ◈
+### `01`
+
+## ◈
 
 ### ARTIFICIAL INTELLIGENCE
 
@@ -222,7 +242,9 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 <td align="center" width="25%">
 
-# ⬡
+### `02`
+
+## ⬡
 
 ### BACKEND SYSTEMS
 
@@ -234,7 +256,9 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 <td align="center" width="25%">
 
-# ◉
+### `03`
+
+## ◉
 
 ### WEB APPLICATIONS
 
@@ -246,7 +270,9 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 <td align="center" width="25%">
 
-# ◇
+### `04`
+
+## ◇
 
 ### SOFTWARE DESIGN
 
@@ -271,75 +297,20 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 **ما فقط کد نمی‌نویسیم؛ نرم‌افزار را مهندسی می‌کنیم.**
 
-</div>
-
 <br>
 
-<table>
-<tr>
+```text
+┌──────────┐     ┌──────────┐     ┌──────────┐
+│  THINK   │ ──► │  DESIGN  │ ──► │  BUILD   │
+└──────────┘     └──────────┘     └──────────┘
+                                         │
+                                         ▼
+                                  ┌──────────┐
+                                  │  EVOLVE  │
+                                  └──────────┘
+```
 
-<td width="20%" align="center">
-
-### 01
-
-**THINK**
-
-مسئله را بفهم.
-
-*Understand.*
-
-</td>
-
-<td width="20%" align="center">
-
-### 02
-
-**DESIGN**
-
-راه‌حل را طراحی کن.
-
-*Design.*
-
-</td>
-
-<td width="20%" align="center">
-
-### 03
-
-**BUILD**
-
-آن را بساز.
-
-*Build.*
-
-</td>
-
-<td width="20%" align="center">
-
-### 04
-
-**TEST**
-
-آن را آزمایش کن.
-
-*Test.*
-
-</td>
-
-<td width="20%" align="center">
-
-### 05
-
-**EVOLVE**
-
-بهترش کن.
-
-*Evolve.*
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -385,9 +356,15 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 ## `07` — APADA MOTTO
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:0891B2&height=110&text=THE%20FUTURE%20BELONGS%20TO%20THOSE%20WHO%20BUILD%20IT.&fontSize=21&fontColor=FFFFFF&fontAlignY=52"/>
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│   THE FUTURE BELONGS TO THOSE WHO BUILD IT.       │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
 
-<br><br>
+<br>
 
 # آینده به کسانی تعلق دارد که آن را می‌سازند.
 
@@ -461,10 +438,6 @@ We design and build software across **Artificial Intelligence, Backend Engineeri
 
 <br>
 
-<sub>
-
 **© APADA — Software Engineering Team**
-
-</sub>
 
 </div>
